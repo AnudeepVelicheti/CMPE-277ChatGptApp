@@ -1,0 +1,6 @@
+com.example.chatgptuiapp.test.app-annotation-experimental-1.3.0-0 C:\Users\anude\.gradle\caches\transforms-3\d62da85dcb4341776ab68f7ee4e91fd5\transformed\annotation-experimental-1.3.0\res
+com.example.chatgptuiapp.test.app-core-1.5.0-1 C:\Users\anude\.gradle\caches\transforms-3\fef5c03dc35b8b0517f65c55ba8c77a4\transformed\core-1.5.0\res
+com.example.chatgptuiapp.test.app-androidTest-2 P:\CMPE-277-Assignments-main\CMPE-277-Assignments-main\Assignment4_ChatGPT UI App\app\build\generated\res\resValues\androidTest\debug
+com.example.chatgptuiapp.test.app-mergeDebugAndroidTestResources-3 P:\CMPE-277-Assignments-main\CMPE-277-Assignments-main\Assignment4_ChatGPT UI App\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.chatgptuiapp.test.app-mergeDebugAndroidTestResources-4 P:\CMPE-277-Assignments-main\CMPE-277-Assignments-main\Assignment4_ChatGPT UI App\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.chatgptuiapp.test.app-merged_res-5 P:\CMPE-277-Assignments-main\CMPE-277-Assignments-main\Assignment4_ChatGPT UI App\app\build\intermediates\merged_res\debugAndroidTest

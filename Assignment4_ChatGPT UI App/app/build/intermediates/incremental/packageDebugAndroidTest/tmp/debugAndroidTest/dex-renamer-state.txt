@@ -1,0 +1,4 @@
+#Sun Mar 31 16:10:09 PDT 2024
+base.0=P\:\\CMPE-277-Assignments-main\\CMPE-277-Assignments-main\\Assignment4_ChatGPT UI App\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

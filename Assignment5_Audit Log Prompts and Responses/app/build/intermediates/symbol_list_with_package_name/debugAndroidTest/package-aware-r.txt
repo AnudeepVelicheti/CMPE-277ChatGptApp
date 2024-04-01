@@ -1,0 +1,3 @@
+com.example.chatgptuiapp.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
